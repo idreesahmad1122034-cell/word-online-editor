@@ -2,7 +2,7 @@
 
 WordOnline is a free browser-based word editor and word counter that allows you to write, edit, and track word count instantly without downloads or signups.
 
-👉 https://wordonline.online/
+👉 Start writing instantly: https://wordonline.online/
 
 ## Features
 - Write and edit documents online
